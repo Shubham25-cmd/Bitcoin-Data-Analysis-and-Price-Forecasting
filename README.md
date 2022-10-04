@@ -1,3 +1,3 @@
-# Bitcoin-Data-Analysis-and-Price-Forecasting
+# Bitcoin Data Analysis and Price Forecasting
 
 ## Motivation
